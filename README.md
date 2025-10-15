@@ -1,6 +1,6 @@
 # macadamia
 
-A new Flutter project.
+An offline personal password manager.
 
 ## Getting Started
 
