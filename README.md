@@ -1,6 +1,6 @@
 # macadamia
 
-An offline personal password manager.
+An offline personal password manager. Primary project files are located in 'lib'
 
 ## Getting Started
 
